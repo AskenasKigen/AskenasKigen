@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askenaskigen&label=Profile%20views&color=0e75b6&style=flat" alt="askenaskigen" /> </p>
 
-- 🌱 I’m currently learning **React, Applied Machine Learning, Data Science, Big Data, Quantum Computing and Artificial Intelligence**
+- 🌱 I’m currently learning **R, Applied Machine Learning, Data Science, Big Data, Quantum Computing and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [github.com/AskenasKigen](github.com/AskenasKigen)
 
