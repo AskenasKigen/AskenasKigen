@@ -1,5 +1,6 @@
+[![MasterHead](https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280)
 <h1 align="center">Hi 👋, I'm Askenas Kigen</h1>
-<h3 align="center">A passionate software developer as well as Technical And Applied Physicist or Engineering and Applied Phycists from Kenya</h3>
+<h3 align="center">A passionate Software Developer, Data Scientist and Analyst as well as Technical And Applied Physicist or Engineering and Applied Phycists from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askenaskigen&label=Profile%20views&color=0e75b6&style=flat" alt="askenaskigen" /> </p>
