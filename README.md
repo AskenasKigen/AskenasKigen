@@ -57,9 +57,10 @@
 
 
 <br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=askenaskigen&show_icons=true&locale=en" alt="askenaskigen" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&" alt="askenaskigen" /></p>
+<br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=askenaskigen&show_icons=true&locale=en" alt="askenaskigen" /></p>
+<br>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&" alt="askenaskigen" /></p>
         
         
 
