@@ -23,7 +23,6 @@
 </a>
 
 <br/> 
-<h3></h3>
 
 <img align="center" alt="Coding" width="1100" src="https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280">
 
