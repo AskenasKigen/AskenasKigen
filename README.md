@@ -1,5 +1,7 @@
 ![MasterHead](https://sciencebusiness.net/sites/default/files/styles/article/public/2022-05/quantum-ibm_1050x450.jpg?itok=EmD92HEv)
 <h1 align="center">Hi 👋, I'm Askenas Kigen</h1>
+<a href="https://github.com/AskenasKigen">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=34&duration=2000&pause=100&multiline=true&width=1200&height=180&lines=A passionate Software Developer+%7C+Data Scientist and Analyst+%7C;Technical And Applied Physicist or Engineering and Applied Phycists+%7C+;Student+%7C+The Technical University Of Kenya+%7C+; United States International University-Africa" alt="Typing SVG" />
 <h3 align="center">A passionate Software Developer, Data Scientist and Analyst as well as Technical And Applied Physicist or Engineering and Applied Phycists from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280">
 
