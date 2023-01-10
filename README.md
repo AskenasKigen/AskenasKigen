@@ -6,7 +6,7 @@
     <a href="https://github.com/AskenasKigen">
     <img src="https://img.shields.io/badge/Website-github.com/AskenasKigen-red?style=flat-square">
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/kigenaskenas/">
+<a href="https://www.linkedin.com/in/kigenaskenas/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:askenaskigen@gmail.com">
