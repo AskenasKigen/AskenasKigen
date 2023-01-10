@@ -3,9 +3,29 @@
 <a href="https://github.com/AskenasKigen">
     <img src="https://readme-typing-svg.demolab.com?font=Times&size=38&duration=2000&pause=50&multiline=true&width=1200&height=181&lines=A passionate Software Developer+%7C+Data Scientist and Analyst+%7C;Technical And Applied Physicist or Engineering and Applied Phycists+%7C+;The Technical University Of Kenya+%7C+; United States International University-Africa" alt="Typing SVG" />
     <h2></h2>
+    <a href="https://github.com/AskenasKigen">
+    <img src="https://img.shields.io/badge/Website-github.com/AskenasKigen-red?style=flat-square">
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/kigenaskenas/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:askenaskigen@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<a href="https://pypi.org/user/AskenasKigen/">
+    <img src="https://img.shields.io/badge/PyPi-AskenasKigen-blue?style=flat-square&logo=pypi&logoColor=white">
+</a>
+<a href="https://pypi.org/user/AskenasKigen/">
+    <img src="https://komarev.com/ghpvc/?username=AskenasKigen&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+</a>
+
+<br/> 
+
 <img align="right" alt="Coding" width="400" src="https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=askenaskigen&label=Profile%20views&color=0e75b6&style=flat" alt="askenaskigen" /> </p>
 
 - 🌱 I’m currently learning **R, Applied Machine Learning, Data Science, Big Data, Quantum Computing and Artificial Intelligence**
 
@@ -14,8 +34,6 @@
 - 📝 I regularly write articles on [www.linkedin.com/in/kigenaskenas](www.linkedin.com/in/kigenaskenas)
 
 - 💬 Ask me about **Quantum Computing, AI, ML, and Expert and Intelligent Systems**
-
-- 📫 How to reach me **askenaskigen@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/kigenaskenas](www.linkedin.com/in/kigenaskenas)
 
