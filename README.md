@@ -23,6 +23,7 @@
 </a>
 
 <br/> 
+<h3></h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280">
 
@@ -54,13 +55,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula)
-
-
+<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=askenaskigen&show_icons=true&locale=en" alt="askenaskigen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&" alt="askenaskigen" /></p>
 <br>
-<br>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=askenaskigen&show_icons=true&locale=en" alt="askenaskigen" /></p>
-<br>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&" alt="askenaskigen" /></p>
         
         
 
