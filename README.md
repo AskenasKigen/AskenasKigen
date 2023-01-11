@@ -48,8 +48,8 @@
 <p><img align="center" width="1100" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AskenasKigen&theme=dracula" alt="askenaskigen" /></p>    
 <p><img align="center" width="1100" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /></p>   
 <p><img align="center" width="1100" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /></p>   
-<p><img align="center" width="1100" src="https://github-readme-stats-sigma-five.vercel.app/api?username=askenaskigen&show_icons=true&locale=en" alt="askenaskigen" /></p>
-<p><img align="center" width="1100" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&" alt="askenaskigen" /></p>
+<p><img align="center" width="1000" src="https://github-readme-stats-sigma-five.vercel.app/api?username=askenaskigen&show_icons=true&locale=en" alt="askenaskigen" /></p>
+<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&" alt="askenaskigen" /></p>
 
         
         
