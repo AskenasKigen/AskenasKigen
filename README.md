@@ -1,8 +1,11 @@
 ![MasterHead](https://sciencebusiness.net/sites/default/files/styles/article/public/2022-05/quantum-ibm_1050x450.jpg?itok=EmD92HEv)
 <h1 align="center">Hi 👋, I'm Askenas Kigen</h1>
+ <p align="center">
 <a href="https://github.com/AskenasKigen">
     <img src="https://readme-typing-svg.demolab.com?font=Times&size=38&duration=2000&pause=50&multiline=true&width=1200&height=230&lines=A passionate Software Developer+%7C+Data Scientist and Analyst+%7C+Statistician+%7C;Technical And Applied Physicist or Engineering and Applied Physicist+%7C+;Student+%7C+The Technical University Of Kenya+%7C+; United States International University-Africa+%7C+;Nairobi, Kenya." alt="Typing SVG" />
+    </p>
     <h2></h2>
+ <p align="center">
     <a href="https://github.com/AskenasKigen">
     <img src="https://img.shields.io/badge/Website-github.com/AskenasKigen-red?style=flat">
 
@@ -21,8 +24,7 @@
 <a href="https://pypi.org/user/AskenasKigen/">
     <img src="https://komarev.com/ghpvc/?username=AskenasKigen&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
-
-<br/> 
+</p>
 
 <img align="center" alt="Coding" width="1100" src="https://www.zdnet.com/a/img/resize/5b11340acab4ed7ecf6234f0b7352c6fd939dcc5/2022/06/07/f701c437-d981-4b58-9496-bc7d8c3a7ed3/zd-2022-coding-automation.jpg?auto=webp&width=1280">
 
