@@ -32,7 +32,7 @@
 
 - 📝 I regularly write articles on [www.linkedin.com/in/kigenaskenas](www.linkedin.com/in/kigenaskenas)
 
-- 💬 Ask me about **Quantum Computing, AI, ML, and Expert and Intelligent Systems**
+- 💬 Ask me about **Quantum Computing, AI, ML, and Expert, Smart and Intelligent Systems**
 
 - 📄 Know about my experiences [www.linkedin.com/in/kigenaskenas](www.linkedin.com/in/kigenaskenas)
 
