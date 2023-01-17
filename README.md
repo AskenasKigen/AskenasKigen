@@ -49,7 +49,7 @@
 </details>
 
 <details open="true">
-    <summary><h3><b>:gear: &nbsp;Git statistics</b></h3></summary>
+<summary><h3><b>:gear: &nbsp;Git statistics</b></h3></summary>
 <p>
 <div  align="center">
 <img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
@@ -67,9 +67,10 @@
 <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&layout=compact&theme=highcontrast" alt="askenaskigen" />
 </div>
 </p>
+</details>
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph:    
 [![AskenasKigen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AskenasKigen&theme=github-compact)](https://github.com/AskenasKigen/github-readme-activity-graph)
 
 <div align="center">
