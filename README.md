@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/PyPi-AskenasKigen-blue?style=flat&logo=pypi&logoColor=white">
 </a>
 <a href="https://pypi.org/user/AskenasKigen/">
-    <img src="https://komarev.com/ghpvc/?username=AskenasKigen&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+    <img src="https://komarev.com/ghpvc/?username=AskenasKigen&label=Visitors&color=0e75b6&style=flat" alt="askenaskigen" />
 </a>
 </p>
 
