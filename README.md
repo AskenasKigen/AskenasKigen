@@ -53,8 +53,8 @@
 </p>
 <p>
 <div  align="center">
-<img height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /> 
-<img height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
+<img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /> 
+<img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
 </div>
 </p>
 <p>
