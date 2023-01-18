@@ -52,9 +52,9 @@
 <summary><h3><b>:gear: &nbsp;Git statistics</b></h3></summary>
 <p>
 <div  align="center">
-<img width="2500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
-<img width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /> 
-<img width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
+<img align="150px" width="2500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
+<img align="150px" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /> 
+<img align="150px" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
 <img width="420px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=askenaskigen&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="askenaskigen" />
 <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&layout=compact&theme=highcontrast" alt="askenaskigen" />
 </div>
