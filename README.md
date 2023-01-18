@@ -53,18 +53,10 @@
 <p>
 <div  align="center">
 <img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
-</div>
-</p>
-<p>
-<div  align="center">
-<img height="245px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /> 
-<img height="245px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
-</div>
-</p>
-<p>
-<div  align="center">
-<img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=askenaskigen&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="askenaskigen" />
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&layout=compact&theme=highcontrast" alt="askenaskigen" />
+<img width="375px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" /> 
+<img width="375px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AskenasKigen&theme=dracula" alt="askenaskigen" />
+<img width="375px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=askenaskigen&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="askenaskigen" />
+<img width="375px" src="https://github-readme-streak-stats.herokuapp.com/?user=askenaskigen&layout=compact&theme=highcontrast" alt="askenaskigen" />
 </div>
 </p>
 </details>
@@ -74,7 +66,7 @@
 [![AskenasKigen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AskenasKigen&theme=github-compact)](https://github.com/AskenasKigen/github-readme-activity-graph)
 
 <div align="center">
-<h3>Github Profile Trophy</h3>
+<h3 align="left">Github Profile Trophy</h3>
 </div>
 
 <p align="center"> 
